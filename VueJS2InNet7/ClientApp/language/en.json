@@ -1,0 +1,34 @@
+﻿{
+  "Filter": {
+    "Keyword": "Keyword",
+    "Product": "Product"
+  },
+  "Pleaceholder": {
+    "FromDate": "From date",
+    "ToDate": "To date",
+    "SelectDate": "Select date"
+  },
+  "Button": {
+    "Search": "Search",
+    "Detail": "Detail",
+    "Export": "Export",
+    "ExportExcel": "Export to Excel",
+    "DownloadExcel": "Download Excel",
+    "Excel": "Excel"
+  },
+  "Text": {
+    "Logout": "Logout",
+    "NotFoundContent": "Not found content",
+    "of": "of",
+    "Loading": "Export",
+    "Unloading": "Import",
+    "NewAdd": "Tạo mới",
+    "NewStartDate": "Nhận mới",
+    "DataTable": "Data table",
+    "Time": "Time"
+  },
+  "Alert": {
+    "ErrorConnectServer": "Can not connect to server",
+    "PleaseSelectDate": "Please select date"
+  }
+}

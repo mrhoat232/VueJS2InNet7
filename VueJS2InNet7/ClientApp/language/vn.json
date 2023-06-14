@@ -1,0 +1,34 @@
+﻿{
+  "Filter": {
+    "Keyword": "Từ khóa",
+    "Product": "Sản phẩm"
+  },
+  "Pleaceholder": {
+    "FromDate": "Từ ngày",
+    "ToDate": "Đến ngày",
+    "SelectDate": "Chọn ngày"
+  },
+  "Button": {
+    "Search": "Tìm kiếm",
+    "Detail": "Chi tiết",
+    "Export": "Export",
+    "ExportExcel": "Xuất Excel",
+    "DownloadExcel": "Tải xuống Excel",
+    "Excel": "Excel"
+  },
+  "Text": {
+    "Logout": "Đăng xuất",
+    "NotFoundContent": "Không có dữ liệu",
+    "of": "của",
+    "Loading": "Xuất kho",
+    "Unloading": "Nhập kho",
+    "NewAdd": "Tạo mới",
+    "NewStartDate": "Nhận mới",
+    "DataTable": "Dữ liệu dạng bảng",
+    "Time": "Thời gian"
+  },
+  "Alert": {
+    "ErrorConnectServer": "Lỗi kết nối tới máy chủ. Vui lòng F5 lại trình duyệt",
+    "PleaseSelectDate": "Vui lòng chọn ngày"
+  }
+}

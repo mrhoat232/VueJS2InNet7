@@ -1,0 +1,43 @@
+﻿<!doctype html>
+<html lang="en" data-layout="horizontal" data-topbar="light" data-sidebar="light" data-sidebar-size="lg" data-sidebar-image="none">
+
+<head>
+
+    <meta charset="utf-8" />
+    <title>Hệ thống demo | VueJS 2 in .Net 7</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
+    <meta content="Themesbrand" name="author" />
+    <!-- App favicon -->
+    <link rel="shortcut icon" href="~/assets/images/logo-sm.png">
+    <!-- plugin css -->
+    <!-- Layout config Js -->
+    <script src="~/assets/js/layout.js"></script>
+    <!-- Bootstrap Css -->
+    <link href="~/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <!-- Icons Css -->
+    <link href="~/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <!-- App Css-->
+    <link href="~/assets/css/app.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/assets/css/custom.min.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+    @RenderBody()
+    <!-- JAVASCRIPT -->
+    <script src="/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/libs/simplebar/simplebar.min.js"></script>
+    <script src="/assets/libs/node-waves/waves.min.js"></script>
+    <script src="/assets/libs/feather-icons/feather.min.js"></script>
+    <script src="/assets/js/pages/plugins/lord-icon-2.1.0.js"></script>
+    <script src="/assets/js/plugins.js"></script>
+    <!-- App js -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script src="/assets/js/app.js"></script>
+</body>
+
+</html>
+
